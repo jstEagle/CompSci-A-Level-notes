@@ -1,0 +1,707 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Topic",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Status",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "e240719f-f4b1-4076-8103-85a868d50037",
+            "content": "bad",
+            "color": "red"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "5f80daae-da94-4d93-a875-6ccb997328b1",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "file",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Notes",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "checkbox",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Notes Done",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "d38d689f-af90-4803-8a1b-531091118ea6",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "date",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Last time",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "bb5f5581-ccd4-48f0-8dd8-53f5b493615f",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T21:53:16.161Z",
+        "lastEditedDateTime": "2024-05-16T08:11:34.163Z",
+        "cells": [
+          {
+            "id": "9ad056d0-847c-469b-85b7-92ccf4dd8e4b",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "Bit Torrent",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "191b5073-b643-4b67-9ad4-544020b09cb7",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "49157cf2-2e17-4be4-add2-efaa397b6977",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Communication/Bit Torrent",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a7b9660a-e5d4-484e-be95-cd2b8131d840",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ab431d9b-fb18-4eeb-96b3-65d3d0271ac4",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "42e6007d-38f8-46bd-8478-3bb8acb7d8f0",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:11:36.636Z",
+        "lastEditedDateTime": "2024-05-14T22:14:19.495Z",
+        "cells": [
+          {
+            "id": "3c257f73-3d38-4c2c-8adb-4f7d89c16d03",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "Email Protocols",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c2dd8fd1-a12b-4bb6-a6d7-a1d4a85d2bc5",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c227be6b-5ce6-41ac-859f-d0cf7b8914fa",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Communication/Email Protocols",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "38183f31-1396-4248-990a-671a7736d93d",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "64ebc714-49a5-43ec-a5a1-7f1acacb8736",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d934a82e-04bc-4654-837f-9558b411df32",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:11:44.592Z",
+        "lastEditedDateTime": "2024-05-14T22:14:22.748Z",
+        "cells": [
+          {
+            "id": "79fb6148-2259-419e-9c49-1585cccfa68d",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "IP and TCP",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a4e4e3d6-12b6-4caf-b052-1b837490d7dd",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "76daf249-f07f-4281-987d-f746cdf4ed1b",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Communication/IP and TCP",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fd78a2f4-dbfb-4fbe-bf47-efc78d574a23",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "32cc60ca-f3cc-4d0d-acc6-eb61ebb7d7a6",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fe2308f4-972a-4a0f-9c3c-71f14c214a4f",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:11:49.751Z",
+        "lastEditedDateTime": "2024-05-14T22:14:26.131Z",
+        "cells": [
+          {
+            "id": "edb6f14e-7d44-44d1-b298-5250d64053b5",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "Protocols",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b92c863e-769c-4cbf-8599-7f0d2462371c",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "df8898ab-3ec2-4ef0-9331-4b88d5815fb4",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Communication/Protocols",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d00121ac-a280-4033-845c-193bc0654343",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cb539a11-e0f9-4a74-a9c1-0d53ca419b58",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "dcb09e74-7c3c-45ac-b9c4-0f226690f5fd",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:12:01.886Z",
+        "lastEditedDateTime": "2024-05-14T22:14:28.875Z",
+        "cells": [
+          {
+            "id": "6bcfd477-45bc-4c77-a963-767c3987bd4d",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "Enumerated Types",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a8d90d19-602b-4d11-99a8-3728670d543c",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a951fb3e-f358-4418-9b68-a59978997fd8",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Data Representation/Enumerated Types",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "700abb1c-1641-4766-944a-48804529a9e9",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "963462cc-01b9-41a2-b3a9-9744d030e381",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2b873b7e-0890-40a5-981d-148f998fbd42",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:12:09.512Z",
+        "lastEditedDateTime": "2024-05-14T22:14:36.878Z",
+        "cells": [
+          {
+            "id": "94397a50-d6ab-42c6-96b1-61d1eabe7ed6",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "File Handling",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b031a13f-f32a-4cb1-ab0f-d28aa5acf711",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b26be25d-bdce-45c3-871e-67dbc9431f08",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Data Representation/Files",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3e0c22d2-3aa3-41e5-b8ce-75d15036ae91",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "874a3907-7530-45ad-86a7-aaa83bf12139",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "eec44518-14f6-4172-a8ce-7a737bac11db",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:12:14.012Z",
+        "lastEditedDateTime": "2024-05-14T22:14:44.495Z",
+        "cells": [
+          {
+            "id": "ea34c195-717c-4900-bd3c-c3c3a9ffb4bf",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "Floating-Point Numbers",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8f326013-8a8b-477d-a35c-0bb341e8edee",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "94de4b96-5ef8-4c45-8572-559d8644bc3d",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Data Representation/Floating-Point Numbers",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1a1073bd-4772-4b3d-9202-ee0b0462615d",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "83b04b4f-6199-49f3-8215-9744d0b33ac0",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5fc0b03d-3e2a-426c-afa0-68077fc0c535",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:12:25.146Z",
+        "lastEditedDateTime": "2024-05-14T22:14:47.247Z",
+        "cells": [
+          {
+            "id": "009568fa-d8c4-4d76-9dc9-47c5c267b0cd",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "Random Files",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c80b4f12-6a3e-446b-9fca-b2ebb7d4d1ef",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0dc794a4-7d7a-47a7-be57-68c83e1c9c15",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Data Representation/Random Files",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c03a39b5-8216-44af-979f-b45e3e41e2fa",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "90477ce7-a5b9-46e4-ad23-598653ee499e",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "35143761-a205-4667-a9ea-f245347b346b",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:12:30.312Z",
+        "lastEditedDateTime": "2024-05-14T22:14:50.259Z",
+        "cells": [
+          {
+            "id": "5ba64d8b-b648-4519-bcef-3aa1d99b27c3",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "Sequential Files",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ddf4d2bd-36dd-4e67-80fb-04817f04d9ab",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "27a05c8b-81b7-451d-9b02-8ba2c8f501a0",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Data Representation/Sequential Files",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fc3c7cc1-a91a-4618-bcdd-6d559af527d3",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "684ad665-f2e5-45a6-b690-5a4ff4ef44ae",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "838d4e51-e50a-459d-94c2-e3f7490dd0a2",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:12:37.368Z",
+        "lastEditedDateTime": "2024-05-14T22:14:53.434Z",
+        "cells": [
+          {
+            "id": "ae56d838-9ce2-4da9-9b34-10d644167314",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "Boolean Algebra",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e6792c97-91b6-4765-b61e-680e7e58dfe6",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6e2fee3f-0cd9-4b99-b832-cf74f9c73f47",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Hardware/Boolean Algebra",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ebc5edf4-0354-420d-abfe-ec5e460f7d96",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "14b20331-a4d6-49e1-a3e8-63d64d30a7aa",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "23e4883e-7e82-4bdd-84a1-d874995bd8a1",
+        "index": 10,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:12:44.577Z",
+        "lastEditedDateTime": "2024-05-14T22:14:56.645Z",
+        "cells": [
+          {
+            "id": "1646c4fc-acb9-4f11-979d-e763705a482e",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "Karnaugh Maps",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9ee1a578-dde4-4347-bd50-e4a8ac737110",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e77fca92-68e7-43ef-993a-e5be60976f1f",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Hardware/Karnaugh Maps",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5bfb2b6a-24e4-40aa-9312-863a5152ec1f",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1051591e-9798-4061-8acd-999cb5724146",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "cfb82a2e-d4d3-4fdb-95a5-ade67f76ff88",
+        "index": 11,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:12:53.641Z",
+        "lastEditedDateTime": "2024-05-14T22:14:59.014Z",
+        "cells": [
+          {
+            "id": "d0a53b41-0957-4c1d-8e50-5c2ee5311eb6",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "Pipelining",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "57746ddb-90fb-4865-a539-584f612e5383",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7568c402-ee37-4f17-8d1d-5b7db2f1398f",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Hardware/Pipelining",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "884adf65-15de-436d-beaf-654a8bab74a6",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "251bc60a-b14a-4209-af89-925ffc4b95e1",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2ac38f20-2f0a-41cd-a027-91c7fb5cad4a",
+        "index": 12,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:12:59.414Z",
+        "lastEditedDateTime": "2024-05-14T22:15:05.749Z",
+        "cells": [
+          {
+            "id": "8c5e99db-e489-484a-9d83-9db8c725c3c2",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "RISC and CISC",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e2a0b491-a5d3-40bf-bfd0-d485a71dcd3a",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "08d479b8-3cb5-4f16-a8fe-a5bc2a7befcf",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Hardware/RISC and CISC",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f55c2a92-cd33-4ed8-89dd-3b2176687aae",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "203fdec7-0e0d-4d96-aa8e-67dd645fcb67",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d1e0e8fc-3dcc-4a6f-9587-22425da7ff27",
+        "index": 13,
+        "sourceId": null,
+        "creationDateTime": "2024-05-14T22:13:07.826Z",
+        "lastEditedDateTime": "2024-05-14T22:15:09.507Z",
+        "cells": [
+          {
+            "id": "f969bd1c-b88a-47cc-a5e2-2d662bc14115",
+            "columnId": "4194fc51-a656-43c0-aac0-36c68ae93ca5",
+            "content": "Virtual Machines",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "92944c91-0648-48e3-83c3-1f59f71c9ed9",
+            "columnId": "715ae313-1ad9-4961-a2de-b93b3ed4f490",
+            "tagId": "e240719f-f4b1-4076-8103-85a868d50037",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "22614b44-e928-44f4-984f-b830006ff2da",
+            "columnId": "5f80daae-da94-4d93-a875-6ccb997328b1",
+            "path": "Justus Mind/School/CompSci/A2/Hardware/Virtual Machines",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a7a54e9e-7f4a-4deb-a9e2-4f0150293fa5",
+            "columnId": "906601ec-a7b1-4f9f-874a-d07cedc77636",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3360f69a-8dd8-4e45-bab0-d2c7490ccf0d",
+            "columnId": "d38d689f-af90-4803-8a1b-531091118ea6",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": false
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.0"
+}

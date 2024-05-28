@@ -1,0 +1,1 @@
+Arithmetic shifts work on two's complement integers.

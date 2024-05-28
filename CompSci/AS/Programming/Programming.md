@@ -1,0 +1,8 @@
+- [[Algorithms]]
+- [[Loops]]
+- [[Record Types]]
+- [[Stacks]]
+- [[Queues]]
+- [[Linked Lists]]
+- [[Abstract Data Types]]
+- [[Justus Mind/School/CompSci/AS/Programming/Translators]]
