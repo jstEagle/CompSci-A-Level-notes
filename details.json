@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "title": "CompSci A Level Notes",
+  "description": "A repository of computer science A Level notes for AS and A2 study.",
+  "tags": [
+    "Java",
+    "Notes",
+    "Computer Science"
+  ],
+  "featured": false,
+  "order": 270,
+  "links": {
+    "repo": "https://github.com/jstEagle/CompSci-A-Level-notes"
+  },
+  "images": []
+}
